@@ -1,0 +1,14 @@
+we are going to pull data from  https://disease.sh/docs/#/COVID-19%3A%20Worldometers/g
+1. Create wireframe (using draw.io)
+the reason of using this that when we go to productive env. we will  handed with se trequirements and it will be visuals of end thing and how to design will look when we go from mobile to pc
+2. Create react app
+3. cleanup project
+4. Structure of the CVOID TRACKER
+
+
+ {/*Map is essentially a loop [item1] [item2] [item3]
+    map is goonna loop through this array
+    and the frist time it loops through it gets item one.
+    so we are returning an object giving it a special shape in this case it is name and country
+    and it will loop though item 2 and check it and give the value
+    and it will loop thorugh item 3 and so on*/}
